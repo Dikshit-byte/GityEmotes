@@ -242,6 +242,6 @@ Add or update animations and transitions.
 `:wastebasket:`
 Deprecating code that needs to be cleaned up.
 
-
+:octocat:
 `:octocat:`
 Add gitcat emoji.
